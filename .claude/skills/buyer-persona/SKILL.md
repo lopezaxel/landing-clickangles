@@ -6,13 +6,27 @@ user-invocable: false
 
 # Buyer Persona — Cliente Ideal de ClickAngles
 
-## Quién es
+## Los 3 perfiles de cliente ideal
 
+### Perfil 1 — Creador de YouTube
 **Nombre ficticio:** Matías / Andrés / Diego
 **Edad:** 22-38 años
 **Rol:** Creador de contenido en YouTube (semi-profesional o profesional)
 **Nicho:** Tech, IA, Educación, Gaming, Negocios, Lifestyle
-**Nivel:** Tiene canal activo, publica con regularidad, ya sabe editar y producir videos. No es principiante total.
+**Nivel:** Tiene canal activo, publica con regularidad, ya sabe editar y producir videos.
+**Motivación:** Más views y CTR en su propio canal. Cada décima de punto de CTR son miles de views.
+
+### Perfil 2 — Automatizador de canales
+**Rol:** Gestiona múltiples canales de YouTube simultáneamente
+**Pain principal:** Necesita escalar la producción de miniaturas sin multiplicar el tiempo por canal
+**Motivación:** Herramienta que funcione como sistema replicable para todos sus canales
+**Valor percibido:** Ahorro de tiempo masivo × cantidad de canales que maneja
+
+### Perfil 3 — Diseñador gráfico para YouTube
+**Rol:** Diseñador que trabaja específicamente para creadores de YouTube
+**Pain principal:** Necesita una herramienta profesional con metodología probada, no intuición
+**Motivación:** Diferenciarse de otros diseñadores, justificar tarifas más altas, entregar resultados medibles (CTR)
+**Valor percibido:** Ventaja competitiva profesional + argumentos de venta para sus clientes
 
 ---
 
